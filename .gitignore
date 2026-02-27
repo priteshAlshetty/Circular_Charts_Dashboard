@@ -1,2 +1,4 @@
 /backend_api/node_modules/
 /frontend_react/node_modules/
+/backend_api/dist/
+/frontend_react/dist/
