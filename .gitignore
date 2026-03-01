@@ -2,3 +2,8 @@
 /frontend_react/node_modules/
 /backend_api/dist/
 /frontend_react/dist/
+
+{
+"trench1" :[],
+"trench2" :[]
+}
